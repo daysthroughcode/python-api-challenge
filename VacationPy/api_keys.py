@@ -1,1 +1,1 @@
-api_key =
+goog_key = "revoked"
